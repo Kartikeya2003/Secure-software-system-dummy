@@ -1,0 +1,14 @@
+# Suhani Apte - Database and Access Control
+
+## My requirements
+
+- SR-02 Voter Eligibility Verification: (your explanation)
+- SR-06 Role-Based Access Control: (your explanation)
+- SR-12 Database Least Privilege: (your explanation)
+- SR-19 Database Views: (your explanation)
+
+## Files I am responsible for
+
+- backend/sql/001_schema.sql
+- backend/src/config/database.js
+- backend/src/middleware/rbac.js
